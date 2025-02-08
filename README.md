@@ -19,11 +19,6 @@ This repository contains a **Spring Boot API** running inside a **Docker contain
 
 ## 🚀 Getting Started
 
-### 🐳 Docker Image
-This application is available on **Docker Hub**:
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/caiobom/docker-java-spring-boot-basic?style=flat-square)](https://hub.docker.com/r/caiobom/docker-java-spring-boot-basic)
-
 ### 📥 **Cloning the Repository**
 To get started, first **clone the repository**:
 
